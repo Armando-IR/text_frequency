@@ -1,5 +1,5 @@
 # text_frequency
-Web Scraper for a news site and frequency of syntagms.
+Scripts to scrape articles from a news site and obtain frequency of syntagms.
 This script is purely demonstrative for recruiting processes.
 
 It extracts frequencies for textual syntagms from a collection of texts. 
